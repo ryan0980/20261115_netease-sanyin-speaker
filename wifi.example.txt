@@ -1,0 +1,8 @@
+# Copy this file to wifi.txt and fill in your home Wi-Fi.
+#
+# IMPORTANT: the Sanyin speaker only supports 2.4GHz Wi-Fi. A 5GHz SSID will never work.
+# Line 1 = SSID (case sensitive)
+# Line 2 = password
+#
+MyWiFi
+my-password

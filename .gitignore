@@ -1,0 +1,15 @@
+# credentials - never commit real values
+wifi.txt
+
+# generated / large / binary
+pylibs/
+logs/
+apk/
+tools/platform-tools/
+tools/platform-tools.zip
+*.apk
+*.zip
+
+__pycache__/
+*.pyc
+.venv/
